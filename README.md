@@ -1,4 +1,4 @@
-# Final Project for "Introduction to Systematic Program Design" course
+# Final Project for CPSC 103: Introduction to Systematic Program Design
 Analyzes a csv file kindly provided by Dr. David Thoms
 
 This program reads the following:
