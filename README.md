@@ -1,7 +1,8 @@
 # SystematicProgramDesign
 Final Project for "Introduction to Systematic Program Design" course
+Analyzes a csv file kindly provided by Dr. David Thoms
 
-This program reads:
+This program reads the following:
 - Time (ISO 8601 format, e.g. 0:00:00)
 - Measured fluorescence values for each experimental condition
   (WCS365-mTq bacteria grown with WCS365 or N2C3 bacteria)
